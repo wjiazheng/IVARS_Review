@@ -1,10 +1,10 @@
-![image](https://github.com/user-attachments/assets/31fa0244-9629-47d8-82fa-be844b902453)![image](https://github.com/user-attachments/assets/32d2eaa1-6b85-46f6-8e79-59804c620932)# Intraoperative Video Analysis in Robotic Surgery: A Literature Review 
+![image](https://github.com/user-attachments/assets/0d9823be-7da1-489a-9a67-36ff7c04eb35)![image](https://github.com/user-attachments/assets/31fa0244-9629-47d8-82fa-be844b902453)![image](https://github.com/user-attachments/assets/32d2eaa1-6b85-46f6-8e79-59804c620932)# Intraoperative Video Analysis in Robotic Surgery: A Literature Review 
 
 Intraoperative video analysis has emerged as a pivotal technology in robot-assisted minimally invasive surgery, enabling real-time interpretation of laparoscopic visual streams to enhance surgical precision, operational safety, and postoperative recovery. 
 
 We categorized intraoperative video analysis in robotic surgery into six core sub-tasks:  
 *[Surgical Image Semantic Segmentation](#Surgical_Image_Semantic_Segmentation)*   
-Surgical Action Triplet Recognition  
+*[Surgical Action Triplet Recognition](#Surgical_Action_Triplet_Recognition)*  
 Stereo Matching and 3D Reconstruction in Robotic Surgery  
 Preoperative-to-intraoperative Image Registration  
 Unsupervised Soft-tissue Tracking  
@@ -83,22 +83,8 @@ Surgical Phase Recognition
 - Self-Supervised Learning for Monocular Depth Estimation on Minimally Invasive Surgery Scenes
 - Unsupervised-Learning-Based Continuous Depth and Motion Estimation With Monocular Endoscopy for Virtual Reality Minimally Invasive Surgery
 - EndoMODE: A Multimodal Visual Feature-Based Ego-Motion Estimation Framework for Monocular Odometry and Depth Estimation in Various Endoscopic Scenes
-- Real-Time Dense Reconstruction of Tissue Surface From Stereo Optical Video
 - Bidirectional Semi-Supervised Dual-Branch CNN for Robust 3D Reconstruction of Stereo Endoscopic Images via Adaptive Cross and Parallel Supervisions.
 - A Robust Edge-Preserving Stereo Matching Method for Laparoscopic Images
-- Self-Supervised Monocular Depth Estimation With 3-D Displacement Module for Laparoscopic Images
-- Simultaneous Depth Estimation and Surgical Tool Segmentation in Laparoscopic Images
-- SVT-SDE: Spatiotemporal Vision Transformers-Based Self-Supervised Depth Estimation in Stereoscopic Surgical Videos
-- A Self-Supervised Network-Based Smoke Removal and Depth Estimation for Monocular Endoscopic Videos
-- Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System
-- WS-SfMLearner: Self-supervised Monocular Depth and Ego-motion Estimation on Surgical Videos with Unknown Camera Parameters
-- Surgical-DINO: adapter learning of foundation models for depth estimation in endoscopic surgery
-- Enhanced self-supervised monocular depth estimation with self-attention and joint depth-pose loss for laparoscopic images
-- Stereo matching of binocular laparoscopic images with improved densely connected neural architecture search
-- The RoDEM benchmark: evaluating the robustness of monocular single-shot depth estimation methods in minimally-invasive surgery
-- EndoAbS dataset: Endoscopic abdominal stereo image dataset for benchmarking 3D stereo reconstruction algorithms
-- Disparity refinement framework for learning-based stereo matching methods in cross-domain setting for laparoscopic images
-- WS-SfMLearner: self-supervised monocular depth and ego-motion estimation on surgical videos with unknown camera parameters.
 - EndoSLAM dataset and an unsupervised monocular visual odometry and depth estimation approach for endoscopic videos
 - MonoPCC: Photometric-invariant cycle constraint for monocular depth estimation of endoscopic images
 - Simultaneous Surgical Visibility Assessment, Restoration, and Augmented Stereo Surface Reconstruction for Robotic Prostatectomy
@@ -113,16 +99,6 @@ Surgical Phase Recognition
 - Deep Laparoscopic Stereo Matching with Transformers
 - EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos
 - Multi-view Guidance for Self-supervised Monocular Depth Estimation on Laparoscopic Images via Spatio-Temporal Correspondence
-- Context Encoder Guided Self-Supervised Siamese Depth Estimation Based on Stereo Laparoscopic Images
-- Self-supervised Depth Estimation with Uncertainty-weight Joint Loss Function Based on Laparoscopic Videos
-- Automatic 3D Point Set Reconstruction from Stereo Laparoscopic Images using Deep Neural Networks
-- The Effect of Luminance on Depth Perception in Augmented Reality Guided Laparoscopic Surgery.
-- A Disparity Refinement Framework for Learning-based Stereo Matching Methods in Cross-domain Setting for Laparoscopic Images.
-- Semi-supervised Learning via Improved Teacher-Student Network for Robust 3D Reconstruction of Stereo Endoscopic Image
-- Confidence-aware self-supervised learning for dense monocular depth estimation in dynamic laparoscopic scene
-- A monocular endoscopic image depth estimation method based on a window-adaptive asymmetric dual-branch Siamese network.
-- Robust Cost Volume Generation Method for Dense Stereo Matching in Endoscopic Scenarios
-- Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data
 - Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers
 - MSDESIS: Multitask Stereo Disparity Estimation and Surgical Instrument Segmentation
 - E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception
@@ -132,10 +108,61 @@ Surgical Phase Recognition
 - EndoGaussian: Real-time Gaussian Splatting for ynamic Endoscopic Scene Reconstruction
 - StaSiS-Net: A stacked and siamese disparity estimation network for depth reconstruction in modern 3D laparoscopy
 
+## Preoperative-to-intraoperative_Image_Registration
+- Using Contours as Boundary Conditions for Elastic Registration during Minimally Invasive Hepatic Surgery
+- Augmented Reality Navigation in Robot-Assisted Surgery with a Teleoperated Robotic Endoscope
+- Augmented Reality Guided Laparoscopic Surgery of the Uterus
+- Video-Based Soft Tissue Deformation Tracking for Laparoscopic Augmented Reality-Based Navigation in Kidney Surgery
+- Point Cloud Registration in Laparoscopic Liver Surgery Using Keypoint Correspondence Registration Network
+- Automatic preoperative 3d model registration in laparoscopic liver resection
+- Automatic, global registration in laparoscopic liver surgery
+- Learning feature descriptors for pre- and intra-operative point cloud matching for laparoscopic liver registration
+- Automatic localization of endoscope in intraoperative CT image: A simple approach to augmented reality guidance in laparoscopic surgery
+- The status of augmented reality in laparoscopic surgery as of 2016
+- The value of Augmented Reality in surgery - A usability study on laparoscopic liver surgery
+- An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion from the MICCAI2022 challenge
+- Image-Based Incision Detection for Topological Intraoperative 3D Model Update in Augmented Reality Assisted Laparoscopic Surgery
+- Using Multiple Images and Contours for Deformable 3D-2D Registration of a Preoperative CT in Laparoscopic Liver Surgery
+- DNA-DIR: 2D-3D GEOMETRY EMBEDDING FOR INTRAOPERATIVE PARTIAL-TO-FULL REGISTRATION
+- Using multiple images and contours for deformable 3D–2D registration of a preoperative CT in laparoscopic liver surgery
+- Real-to-Sim Registration of Deformable Soft Tissue with Position-Based Dynamics for Surgical Robot Autonomy
+- Feature-Guided Nonrigid 3-D Point Set Registration Framework for Image-Guided Liver Surgery: From Isotropic Positional Noise to Anisotropic Positional Noise
+- An Optimal Control Problem for Elastic Registration and Force Estimation in Augmented Surgery
 
+## Unsupervised_Soft-tissue_Tracking
+- Ada-Tracker: Soft Tissue Tracking via Inter-Frame and Adaptive-Template Matching
+- Surgical Tattoos in Infrared: A Dataset for Quantifying Tissue Tracking and Mapping
+- Video-Based Soft Tissue Deformation Tracking for Laparoscopic Augmented Reality-Based Navigation in Kidney Surgery
+- Evaluating Unsupervised Optical Flow for Keypoint Tracking in Laparoscopic Videos
+- Tracker Learning Surgical Images By Self-Supervised Learning: An Enhanced Unsupervised Deep Tracking Approach
 
-
-
+## Surgical_Phase_Recognition
+- C-ECT: Online Surgical Phase Recognition with Cross-Enhancement Causal Transformer
+- SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition
+- EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos
+- SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network
+- Temporal Memory Relation Network for Workflow Recognition From Surgical Video
+- Exploring Segment-Level Semantics for Online Phase Recognition From Surgical Videos
+- Cascade Multi-Level Transformer Network for Surgical Workflow Analysis
+- Federated Cycling (FedCy): Semi-Supervised Federated Learning of Surgical Phases
+- LAST: LAtent Space-Constrained Transformers for Automatic Surgical Phase Recognition and Tool Presence Detection
+- Less Is More: Surgical Phase Recognition From Timestamp Supervision
+- Semi-supervised learning with progressive unlabeled data excavation for label-efficient surgical workflow recognition
+- LoViT: Long Video Transformer for surgical phase recognition
+- Hard Frame Detection and Online Mapping for Surgical Phase Recognition
+- OperA: Attention-Regularized Transformers for Surgical Phase Recognition
+- Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer
+- HecVL: Hierarchical Video-Language Pretraining for Zero-Shot Surgical Phase Recognition
+- Label-Guided Teacher for Surgical Phase Recognition via Knowledge Distillation
+- MuST: Multi-scale Transformers for Surgical Phase Recognition
+- Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition
+- Retrieval of Surgical Phase Transitions Using Reinforcement Learning
+- Comparative validation of machine learning algorithms for surgical workflow and skill analysis with the HeiChole benchmark
+- On the pitfalls of Batch Normalization for end-to-end video learning: A study on surgical workflow analysis
+- Frequency-Based Temporal Analysis Network for Accurate Phase Recognition from Surgical Videos
+- Intelligent surgical workflow recognition for endoscopic submucosal dissection with real-time animal study
+- Dissecting Self-Supervised Learning Methods for Surgical Computer Vision
+- Multi-task recurrent convolutional network with correlation loss for surgical video analysis
 
 
 
