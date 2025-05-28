@@ -13,7 +13,4 @@ Surgical Phase Recognition
 
 ## Surgical_Image_Semantic_Segmentation  
 - Automatic instrument segmentation in robot-assisted surgery using deep learning
-\begin{enumerate}
-    \item Automatic instrument segmentation in robot-assisted surgery using deep learning
-    \item Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks
-\end{enumerate}
+- Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks
