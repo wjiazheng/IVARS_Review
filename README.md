@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0d9823be-7da1-489a-9a67-36ff7c04eb35)![image](https://github.com/user-attachments/assets/31fa0244-9629-47d8-82fa-be844b902453)![image](https://github.com/user-attachments/assets/32d2eaa1-6b85-46f6-8e79-59804c620932)# Intraoperative Video Analysis in Robotic Surgery: A Literature Review 
+# Intraoperative Video Analysis in Robotic Surgery: A Literature Review 
 
 Intraoperative video analysis has emerged as a pivotal technology in robot-assisted minimally invasive surgery, enabling real-time interpretation of laparoscopic visual streams to enhance surgical precision, operational safety, and postoperative recovery. 
 
