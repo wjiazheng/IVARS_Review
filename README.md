@@ -5,7 +5,7 @@ Intraoperative video analysis has emerged as a pivotal technology in robot-assis
 We categorized intraoperative video analysis in robotic surgery into six core sub-tasks:  
 *[Surgical Image Semantic Segmentation](#Surgical_Image_Semantic_Segmentation)*   
 *[Surgical Action Triplet Recognition](#Surgical_Action_Triplet_Recognition)*  
-*[Stereo Matching and 3D Reconstruction in Robotic Surgery](#Stereo_Matching_and_3D_Reconstruction_in_Robotic_Surgery)* 
+*[Stereo Matching and 3D Reconstruction in Robotic Surgery](#Stereo_Matching_and_3D_Reconstruction_in_Robotic_Surgery)*   
 *[Preoperative-to-intraoperative Image Registration](#Preoperative-to-intraoperative_Image_Registration)*  
 *[Unsupervised Soft-tissue Tracking](#Unsupervised_Soft-tissue_Tracking)*  
 *[Surgical Phase Recognition](#Surgical_Phase_Recognition)*
