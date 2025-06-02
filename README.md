@@ -14,49 +14,90 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 ## Surgical_Image_Semantic_Segmentation  
 - Automatic instrument segmentation in robot-assisted surgery using deep learning  
   [2018] :star:[paper](https://ieeexplore.ieee.org/abstract/document/8614125) :sunny:[code](https://github.com/ternaus/robot-surgery-segmentation)
-- Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks
-- One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video
-- TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery
-- Pseudo-label Guided Cross-video Pixel Contrast for Robotic Surgical Scene Segmentation with Limited Annotations
-- MATIS: MASKED-ATTENTION TRANSFORMERS FOR SURGICAL INSTRUMENT SEGMENTATION
-- Robotic Scene Segmentation with Memory Network for Runtime Surgical Context Inference
-- Text Promptable Surgical Instrument Segmentation with Vision-Language Models
-- Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video
-- MSDE-Net: A Multi-Scale Dual-Encoding Network for Surgical Instrument Segmentation
-- Structural and Pixel Relation Modeling for Semisupervised Instrument Segmentation From Surgical Videos
-- TMF-Net: A Transformer-Based Multiscale Fusion Network for Surgical Instrument Segmentation From Endoscopic Images
-- Branch Aggregation Attention Network for Robotic Surgical Instrument Segmentation
-- Exploring Intra- and Inter-Video Relation for Surgical Semantic Scene Segmentation
-- LSKANet: Long Strip Kernel Attention Network for Robotic Surgical Scene Segmentation
-- MSDESIS: Multitask Stereo Disparity Estimation and Surgical Instrument Segmentation
-- SSIS-Seg: Simulation-Supervised Image Synthesis for Surgical Instrument Segmentation
-- SurgNet: Self-Supervised Pretraining With Semantic Consistency for Vessel and Instrument Segmentation in Surgical Images
-- Video-Instrument Synergistic Network for Referring Video Instrument Segmentation in Robotic Surgery
-- Surgical-DeSAM: decoupling SAM for instrument segmentation in robotic surgery
-- Anchor-guided online meta adaptation for fast one-Shot instrument segmentation from robotic surgical videos
+- Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks  
+  [2020] :star:[paper](https://ieeexplore.ieee.org/document/9340816) 
+- One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video  
+  [2021] :star:[paper]() :sunny:[code]()
+- TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery  
+  [2022] :star:[paper]() :sunny:[code]()
+- Pseudo-label Guided Cross-video Pixel Contrast for Robotic Surgical Scene Segmentation with Limited Annotations  
+  [2022] :star:[paper]() :sunny:[code]()
+- MATIS: MASKED-ATTENTION TRANSFORMERS FOR SURGICAL INSTRUMENT SEGMENTATION  
+  [2023] :star:[paper]() :sunny:[code]()
+- Robotic Scene Segmentation with Memory Network for Runtime Surgical Context Inference  
+  [2023] :star:[paper]() :sunny:[code]()
+- Text Promptable Surgical Instrument Segmentation with Vision-Language Models  
+  [2023] :star:[paper]() :sunny:[code]()
+- Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video  
+  [2020] :star:[paper]() :sunny:[code]()
+- MSDE-Net: A Multi-Scale Dual-Encoding Network for Surgical Instrument Segmentation  
+  [2024] :star:[paper]() :sunny:[code]()
+- Structural and Pixel Relation Modeling for Semisupervised Instrument Segmentation From Surgical Videos  
+  [2024] :star:[paper]() :sunny:[code]()
+- TMF-Net: A Transformer-Based Multiscale Fusion Network for Surgical Instrument Segmentation From Endoscopic Images  
+  [2023] :star:[paper]() :sunny:[code]()
+- Branch Aggregation Attention Network for Robotic Surgical Instrument Segmentation  
+  [2023] :star:[paper]() :sunny:[code]()
+- Exploring Intra- and Inter-Video Relation for Surgical Semantic Scene Segmentation  
+  [2022] :star:[paper]() :sunny:[code]()
+- LSKANet: Long Strip Kernel Attention Network for Robotic Surgical Scene Segmentation  
+  [2024] :star:[paper]() :sunny:[code]()
+- MSDESIS: Multitask Stereo Disparity Estimation and Surgical Instrument Segmentation  
+  [2022] :star:[paper]() :sunny:[code]()
+- SSIS-Seg: Simulation-Supervised Image Synthesis for Surgical Instrument Segmentation  
+  [2022] :star:[paper]() :sunny:[code]()
+- SurgNet: Self-Supervised Pretraining With Semantic Consistency for Vessel and Instrument Segmentation in Surgical Images  
+  [2024] :star:[paper]() :sunny:[code]()
+- Video-Instrument Synergistic Network for Referring Video Instrument Segmentation in Robotic Surgery  
+  [2024] :star:[paper]() :sunny:[code]()
+- Surgical-DeSAM: decoupling SAM for instrument segmentation in robotic surgery  
+  [2024] :star:[paper]() :sunny:[code]()
+- Anchor-guided online meta adaptation for fast one-Shot instrument segmentation from robotic surgical videos  
+  [2021] :star:[paper]() :sunny:[code]()
 - FUN-SIS: A Fully UNsupervised approach for Surgical Instrument Segmentation
+  [2023] :star:[paper]() :sunny:[code]()
 - LACOSTE: Exploiting stereo and temporal contexts for surgical instrument segmentation
+  [2025] :star:[paper]() :sunny:[code]()
 - Reducing annotating load: Active learning with synthetic images in surgical instrument
+  [2024] :star:[paper]() :sunny:[code]()
 - SurgiNet: Pyramid Attention Aggregation and Class-wise Self-Distillation for Surgical Instrument Segmentation
+  [2022] :star:[paper]() :sunny:[code]()
 - Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video
+  [2019] :star:[paper]() :sunny:[code]()
 - Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation
+  [2021] :star:[paper]() :sunny:[code]()
 - Co-generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data
+  [2021] :star:[paper]() :sunny:[code]()
 - Efficient Global-Local Memory for Real-Time Instrument Segmentation of Robotic Surgical Video
+  [2021] :star:[paper]() :sunny:[code]()
 - Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need
+  [2022] :star:[paper]() :sunny:[code]()
 - Surgical Scene Segmentation Using Semantic Image Synthesis with a Virtual Surgery Environment
+  [2022] :star:[paper]() :sunny:[code]()
 - AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation
+  [2024] :star:[paper]() :sunny:[code]()
 - SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation
+  [2024] :star:[paper]() :sunny:[code]()
 - ISINet: An Instance-Based Approach for Surgical Instrument Segmentation
+  [2020] :star:[paper]() :sunny:[code]()
 - Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmen
+  [] :star:[paper]() :sunny:[code]()
 - Graph-Based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge
+  [] :star:[paper]() :sunny:[code]()
 - Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation
+  [] :star:[paper]() :sunny:[code]()
 - SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective
+  [] :star:[paper]() :sunny:[code]()
 - Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments
+  [] :star:[paper]() :sunny:[code]()
 - Pyramid Attention Aggregation Network for Semantic Segmentation of Surgical Instruments
+  [] :star:[paper]() :sunny:[code]()
 - Space Squeeze Reasoning and Low-Rank Bilinear Feature Fusion for Surgical Image Segmentation
+  [] :star:[paper]() :sunny:[code]()
 
 ## Surgical_Action_Triplet_Recognition 
 - Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search
+- [] :star:[paper]() :sunny:[code]()
 - Multi-Task Recurrent Neural Network for Surgical Gesture Recognition and Progress Prediction
 - Relational Graph Learning on Visual and Kinematics Embeddings for Accurate Gesture Recognition in Robotic Surgery
 - Surgical Gesture Recognition Based on Bidirectional Multi-Layer Independently RNN with Explainable Spatial Feature Extraction
