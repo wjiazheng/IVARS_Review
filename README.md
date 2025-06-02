@@ -41,45 +41,45 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 - Exploring Intra- and Inter-Video Relation for Surgical Semantic Scene Segmentation  
   [2022] :star:[paper](https://ieeexplore.ieee.org/document/9779714) :sunny:[code](https://github.com/YuemingJin/STswinCL)
 - LSKANet: Long Strip Kernel Attention Network for Robotic Surgical Scene Segmentation  
-  [2024] :star:[paper]() :sunny:[code]()
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10330108) :sunny:[code](https://github.com/YubinHan73/LSKANet)
 - MSDESIS: Multitask Stereo Disparity Estimation and Surgical Instrument Segmentation  
-  [2022] :star:[paper]() :sunny:[code]()
+  [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9791423) :sunny:[code](https://github.com/dimitrisPs/msdesis)
 - SSIS-Seg: Simulation-Supervised Image Synthesis for Surgical Instrument Segmentation  
-  [2022] :star:[paper]() :sunny:[code]()
+  [2022] :star:[paper](https://ieeexplore.ieee.org/document/9783104) 
 - SurgNet: Self-Supervised Pretraining With Semantic Consistency for Vessel and Instrument Segmentation in Surgical Images  
-  [2024] :star:[paper]() :sunny:[code]()
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10354412) 
 - Video-Instrument Synergistic Network for Referring Video Instrument Segmentation in Robotic Surgery  
-  [2024] :star:[paper]() :sunny:[code]()
+  [2024] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10595513) :sunny:[code](https://github.com/whq-xxh/RSVIS)
 - Surgical-DeSAM: decoupling SAM for instrument segmentation in robotic surgery  
-  [2024] :star:[paper]() :sunny:[code]()
+  [2024] :star:[paper](https://link.springer.com/article/10.1007/s11548-024-03163-6) :sunny:[code](https://github.com/YuyangSheng/Surgical-DeSAM)
 - Anchor-guided online meta adaptation for fast one-Shot instrument segmentation from robotic surgical videos  
-  [2021] :star:[paper]() :sunny:[code]()
+  :exclamation:[2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841521002851#:~:text=In%20this%20paper%2C%20we%20study%20the%20challenging%20one-shot,accessible%20source%29%20can%20adapt%20to%20the%20target%20instruments.) :sunny:[code]()
 - FUN-SIS: A Fully UNsupervised approach for Surgical Instrument Segmentation  
-  [2023] :star:[paper]() :sunny:[code]()
+  :exclamation:[2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000129#:~:text=Propose%20a%20generative-adversarial%20approach%20for%20unsupervised%20surgical%20tool,the%20noise%20properties%20of%20these%20motion-derived%20segmentation%20masks.) :sunny:[code]()
 - LACOSTE: Exploiting stereo and temporal contexts for surgical instrument segmentation  
-  [2025] :star:[paper]() :sunny:[code]()
+  :exclamation:[2025] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524003128#:~:text=In%20this%20work%2C%20we%20propose%20a%20novel%20LACOSTEmodel,and%20TEmporal%20images%20for%20improved%20surgical%20instrument%20segmentation.) :sunny:[code]()
 - Reducing annotating load: Active learning with synthetic images in surgical instrument  
-  [2024] :star:[paper]() :sunny:[code]()
+  [2024] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001713#:~:text=Motivated%20by%20alleviating%20the%20experts%E2%80%99%20workload%20of%20annotating,for%20labeled%20real%20images%20while%20having%20comparable%20performance.) :sunny:[code](https://github.com/HaonanPeng/active_syn_generator)
 - SurgiNet: Pyramid Attention Aggregation and Class-wise Self-Distillation for Surgical Instrument Segmentation  
-  [2022] :star:[paper]() :sunny:[code]()
+  :exclamation:[2022] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841521003558) :sunny:[code]()
 - Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video  
-  [2019] :star:[paper]() :sunny:[code]()
+  [2019] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_49) :sunny:[code](https://github.com/keyuncheng/MF-TAPNet)
 - Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation  
-  [2021] :star:[paper]() :sunny:[code]()
+  [2021] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26) :sunny:[code](https://github.com/CityU-AIM-Group/SePIG)
 - Co-generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data  
-  [2021] :star:[paper]() :sunny:[code]()
+  [2021] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_39) :sunny:[code](https://github.com/tajwarabraraleef/coSegGAN)
 - Efficient Global-Local Memory for Real-Time Instrument Segmentation of Robotic Surgical Video  
-  [2021] :star:[paper]() :sunny:[code]()
+  [2021] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_33) :sunny:[code](https://github.com/jcwang123/DMNet)
 - Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need  
-  [2022] :star:[paper]() :sunny:[code]()
+  [2022] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_34) :sunny:[code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
 - Surgical Scene Segmentation Using Semantic Image Synthesis with a Virtual Surgery Environment  
-  [2022] :star:[paper]() :sunny:[code]()
+  [2022] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_53) :sunny:[code](https://sisvse.github.io/)
 - AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation  
-  [2024] :star:[paper]() :sunny:[code]()
+  [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-66958-3_14) :sunny:[code](https://github.com/JayParanjape/biastuning)
 - SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation  
-  [2024] :star:[paper]() :sunny:[code]()
+  [2024] :star:[paper](https://dl.acm.org/doi/10.1609/aaai.v38i7.28514) :sunny:[code](https://github.com/wenxi-yue/SurgicalSAM)
 - ISINet: An Instance-Based Approach for Surgical Instrument Segmentation  
-  [2020] :star:[paper]() :sunny:[code]()
+  [2020] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_57) :sunny:[code]()
 - Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmen  
   [] :star:[paper]() :sunny:[code]()
 - Graph-Based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge  
