@@ -91,7 +91,7 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 - Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments  
   [2020] :star:[paper](https://ieeexplore.ieee.org/document/9197425) 
 - Pyramid Attention Aggregation Network for Semantic Segmentation of Surgical Instruments  
-  [2020] :star:[paper]([https://ojs.aaai.org/index.php/AAAI/article/view/6850#:~:text=In%20this%20paper%2C%20a%20novel%20network%2C%20Pyramid%20Attention,to%20aggregate%20multi-scale%20attentive%20features%20for%20surgical%20instruments.](https://ojs.aaai.org/index.php/AAAI/article/view/6850))
+  [2020] :star:[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6850#:~:text=In%20this%20paper%2C%20a%20novel%20network%2C%20Pyramid%20Attention,to%20aggregate%20multi-scale%20attentive%20features%20for%20surgical%20instruments.)
 - Space Squeeze Reasoning and Low-Rank Bilinear Feature Fusion for Surgical Image Segmentation  
   [2022] :star:[paper](https://ieeexplore.ieee.org/document/9722971) 
 
