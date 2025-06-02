@@ -79,21 +79,21 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 - SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation  
   [2024] :star:[paper](https://dl.acm.org/doi/10.1609/aaai.v38i7.28514) :sunny:[code](https://github.com/wenxi-yue/SurgicalSAM)
 - ISINet: An Instance-Based Approach for Surgical Instrument Segmentation  
-  [2020] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_57) :sunny:[code]()
+  [2020] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_57) :sunny:[code](https://github.com/BCV-Uniandes/ISINet)
 - Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmen  
-  [] :star:[paper]() :sunny:[code]()
+  [2023] :star:[paper](https://arxiv.org/abs/2203.15177) :sunny:[code](https://github.com/AngeLouCN/Min_Max_Similarity)
 - Graph-Based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge  
-  [] :star:[paper]() :sunny:[code]()
+  [2022] :star:[paper](https://ieeexplore.ieee.org/document/9583929) :sunny:[code](https://github.com/CityU-AIM-Group/Prototypical-Graph-DA)
 - Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation  
-  [] :star:[paper]() :sunny:[code]()
+  [2020] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_75) 
 - SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective  
-  [] :star:[paper]() :sunny:[code]()
+  :exclamation:[2023] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_23) :sunny:[code]()
 - Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments  
-  [] :star:[paper]() :sunny:[code]()
+  [2020] :star:[paper](https://ieeexplore.ieee.org/document/9197425) 
 - Pyramid Attention Aggregation Network for Semantic Segmentation of Surgical Instruments  
-  [] :star:[paper]() :sunny:[code]()
+  [2020] :star:[paper]([https://ojs.aaai.org/index.php/AAAI/article/view/6850#:~:text=In%20this%20paper%2C%20a%20novel%20network%2C%20Pyramid%20Attention,to%20aggregate%20multi-scale%20attentive%20features%20for%20surgical%20instruments.](https://ojs.aaai.org/index.php/AAAI/article/view/6850))
 - Space Squeeze Reasoning and Low-Rank Bilinear Feature Fusion for Surgical Image Segmentation  
-  [] :star:[paper]() :sunny:[code]()
+  [2022] :star:[paper](https://ieeexplore.ieee.org/document/9722971) 
 
 ## Surgical_Action_Triplet_Recognition 
 - Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search
