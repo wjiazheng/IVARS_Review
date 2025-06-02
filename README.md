@@ -17,29 +17,29 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 - Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks  
   [2020] :star:[paper](https://ieeexplore.ieee.org/document/9340816) 
 - One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video  
-  [2021] :star:[paper]() :sunny:[code]()
+  [2021] :star:[paper](https://ieeexplore.ieee.org/document/9561690)
 - TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery  
-  [2022] :star:[paper]() :sunny:[code]()
+  [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9811873)
 - Pseudo-label Guided Cross-video Pixel Contrast for Robotic Surgical Scene Segmentation with Limited Annotations  
-  [2022] :star:[paper]() :sunny:[code]()
+  [2022] :star:[paper](https://ieeexplore.ieee.org/document/9981798) :sunny:[code](https://github.com/yangyu-cuhk/PGV-CL)
 - MATIS: MASKED-ATTENTION TRANSFORMERS FOR SURGICAL INSTRUMENT SEGMENTATION  
-  [2023] :star:[paper]() :sunny:[code]()
+  [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10230819/citations#citations) :sunny:[code](https://github.com/BCV-Uniandes/MATIS)
 - Robotic Scene Segmentation with Memory Network for Runtime Surgical Context Inference  
-  [2023] :star:[paper]() :sunny:[code]()
+  [2023] :star:[paper](https://ieeexplore.ieee.org/document/10342013) :sunny:[code](https://github.com/UVA-DSA/Runtime_RobScene_Seg_2Context)
 - Text Promptable Surgical Instrument Segmentation with Vision-Language Models  
-  [2023] :star:[paper]() :sunny:[code]()
+  [2023] :star:[paper](https://arxiv.org/abs/2306.09244) :sunny:[code](https://github.com/franciszzj/TP-SIS)
 - Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video  
-  [2020] :star:[paper]() :sunny:[code]()
+  [2020] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_65) :sunny:[code](https://github.com/zxzhaoeric/Semi-InstruSeg/)
 - MSDE-Net: A Multi-Scale Dual-Encoding Network for Surgical Instrument Segmentation  
-  [2024] :star:[paper]() :sunny:[code]()
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10366786) 
 - Structural and Pixel Relation Modeling for Semisupervised Instrument Segmentation From Surgical Videos  
-  [2024] :star:[paper]() :sunny:[code]()
+  [2024] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10359452) 
 - TMF-Net: A Transformer-Based Multiscale Fusion Network for Surgical Instrument Segmentation From Endoscopic Images  
-  [2023] :star:[paper]() :sunny:[code]()
+  [2023] :star:[paper](https://ieeexplore.ieee.org/document/9975835) 
 - Branch Aggregation Attention Network for Robotic Surgical Instrument Segmentation  
-  [2023] :star:[paper]() :sunny:[code]()
+  [2023] :star:[paper](https://ieeexplore.ieee.org/document/10158746) :sunny:[code](https://github.com/SWT-1014/BAANet)
 - Exploring Intra- and Inter-Video Relation for Surgical Semantic Scene Segmentation  
-  [2022] :star:[paper]() :sunny:[code]()
+  [2022] :star:[paper](https://ieeexplore.ieee.org/document/9779714) :sunny:[code](https://github.com/YuemingJin/STswinCL)
 - LSKANet: Long Strip Kernel Attention Network for Robotic Surgical Scene Segmentation  
   [2024] :star:[paper]() :sunny:[code]()
 - MSDESIS: Multitask Stereo Disparity Estimation and Surgical Instrument Segmentation  
@@ -54,45 +54,45 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2024] :star:[paper]() :sunny:[code]()
 - Anchor-guided online meta adaptation for fast one-Shot instrument segmentation from robotic surgical videos  
   [2021] :star:[paper]() :sunny:[code]()
-- FUN-SIS: A Fully UNsupervised approach for Surgical Instrument Segmentation
+- FUN-SIS: A Fully UNsupervised approach for Surgical Instrument Segmentation  
   [2023] :star:[paper]() :sunny:[code]()
-- LACOSTE: Exploiting stereo and temporal contexts for surgical instrument segmentation
+- LACOSTE: Exploiting stereo and temporal contexts for surgical instrument segmentation  
   [2025] :star:[paper]() :sunny:[code]()
-- Reducing annotating load: Active learning with synthetic images in surgical instrument
+- Reducing annotating load: Active learning with synthetic images in surgical instrument  
   [2024] :star:[paper]() :sunny:[code]()
-- SurgiNet: Pyramid Attention Aggregation and Class-wise Self-Distillation for Surgical Instrument Segmentation
+- SurgiNet: Pyramid Attention Aggregation and Class-wise Self-Distillation for Surgical Instrument Segmentation  
   [2022] :star:[paper]() :sunny:[code]()
-- Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video
+- Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video  
   [2019] :star:[paper]() :sunny:[code]()
-- Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation
+- Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation  
   [2021] :star:[paper]() :sunny:[code]()
-- Co-generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data
+- Co-generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data  
   [2021] :star:[paper]() :sunny:[code]()
-- Efficient Global-Local Memory for Real-Time Instrument Segmentation of Robotic Surgical Video
+- Efficient Global-Local Memory for Real-Time Instrument Segmentation of Robotic Surgical Video  
   [2021] :star:[paper]() :sunny:[code]()
-- Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need
+- Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need  
   [2022] :star:[paper]() :sunny:[code]()
-- Surgical Scene Segmentation Using Semantic Image Synthesis with a Virtual Surgery Environment
+- Surgical Scene Segmentation Using Semantic Image Synthesis with a Virtual Surgery Environment  
   [2022] :star:[paper]() :sunny:[code]()
-- AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation
+- AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation  
   [2024] :star:[paper]() :sunny:[code]()
-- SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation
+- SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation  
   [2024] :star:[paper]() :sunny:[code]()
-- ISINet: An Instance-Based Approach for Surgical Instrument Segmentation
+- ISINet: An Instance-Based Approach for Surgical Instrument Segmentation  
   [2020] :star:[paper]() :sunny:[code]()
-- Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmen
+- Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmen  
   [] :star:[paper]() :sunny:[code]()
-- Graph-Based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge
+- Graph-Based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge  
   [] :star:[paper]() :sunny:[code]()
-- Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation
+- Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation  
   [] :star:[paper]() :sunny:[code]()
-- SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective
+- SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective  
   [] :star:[paper]() :sunny:[code]()
-- Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments
+- Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments  
   [] :star:[paper]() :sunny:[code]()
-- Pyramid Attention Aggregation Network for Semantic Segmentation of Surgical Instruments
+- Pyramid Attention Aggregation Network for Semantic Segmentation of Surgical Instruments  
   [] :star:[paper]() :sunny:[code]()
-- Space Squeeze Reasoning and Low-Rank Bilinear Feature Fusion for Surgical Image Segmentation
+- Space Squeeze Reasoning and Low-Rank Bilinear Feature Fusion for Surgical Image Segmentation  
   [] :star:[paper]() :sunny:[code]()
 
 ## Surgical_Action_Triplet_Recognition 
