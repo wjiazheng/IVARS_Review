@@ -12,8 +12,8 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 
 
 ## Surgical_Image_Semantic_Segmentation  
-- Automatic instrument segmentation in robot-assisted surgery using deep learning.
-  [2018] :star:[paper]() [code]()
+- [Automatic instrument segmentation in robot-assisted surgery using deep learning](#https://ieeexplore.ieee.org/abstract/document/8614125)
+  [2018] :star: [code]()
 - Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks
 - One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video
 - TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery
