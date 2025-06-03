@@ -53,15 +53,15 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 - Surgical-DeSAM: decoupling SAM for instrument segmentation in robotic surgery  
   [2024] :star:[paper](https://link.springer.com/article/10.1007/s11548-024-03163-6) :sunny:[code](https://github.com/YuyangSheng/Surgical-DeSAM)
 - Anchor-guided online meta adaptation for fast one-Shot instrument segmentation from robotic surgical videos  
-  :exclamation:[2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841521002851#:~:text=In%20this%20paper%2C%20we%20study%20the%20challenging%20one-shot,accessible%20source%29%20can%20adapt%20to%20the%20target%20instruments.) :sunny:[code]()
+  [2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841521002851#:~:text=In%20this%20paper%2C%20we%20study%20the%20challenging%20one-shot,accessible%20source%29%20can%20adapt%20to%20the%20target%20instruments.) 
 - FUN-SIS: A Fully UNsupervised approach for Surgical Instrument Segmentation  
-  :exclamation:[2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000129#:~:text=Propose%20a%20generative-adversarial%20approach%20for%20unsupervised%20surgical%20tool,the%20noise%20properties%20of%20these%20motion-derived%20segmentation%20masks.) :sunny:[code]()
+  [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000129#:~:text=Propose%20a%20generative-adversarial%20approach%20for%20unsupervised%20surgical%20tool,the%20noise%20properties%20of%20these%20motion-derived%20segmentation%20masks.)
 - LACOSTE: Exploiting stereo and temporal contexts for surgical instrument segmentation  
-  :exclamation:[2025] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524003128#:~:text=In%20this%20work%2C%20we%20propose%20a%20novel%20LACOSTEmodel,and%20TEmporal%20images%20for%20improved%20surgical%20instrument%20segmentation.) :sunny:[code]()
+  [2025] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524003128#:~:text=In%20this%20work%2C%20we%20propose%20a%20novel%20LACOSTEmodel,and%20TEmporal%20images%20for%20improved%20surgical%20instrument%20segmentation.)
 - Reducing annotating load: Active learning with synthetic images in surgical instrument  
   [2024] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001713#:~:text=Motivated%20by%20alleviating%20the%20experts%E2%80%99%20workload%20of%20annotating,for%20labeled%20real%20images%20while%20having%20comparable%20performance.) :sunny:[code](https://github.com/HaonanPeng/active_syn_generator)
 - SurgiNet: Pyramid Attention Aggregation and Class-wise Self-Distillation for Surgical Instrument Segmentation  
-  :exclamation:[2022] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841521003558) :sunny:[code]()
+  [2022] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841521003558)
 - Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video  
   [2019] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_49) :sunny:[code](https://github.com/keyuncheng/MF-TAPNet)
 - Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation  
@@ -87,7 +87,7 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 - Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation  
   [2020] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_75) 
 - SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective  
-  :exclamation:[2023] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_23) :sunny:[code]()
+  [2023] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_23) 
 - Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments  
   [2020] :star:[paper](https://ieeexplore.ieee.org/document/9197425) 
 - Pyramid Attention Aggregation Network for Semantic Segmentation of Surgical Instruments  
