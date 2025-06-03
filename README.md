@@ -193,10 +193,15 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 
 ## Unsupervised_Soft-tissue_Tracking
 - Ada-Tracker: Soft Tissue Tracking via Inter-Frame and Adaptive-Template Matching
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10611030) :sunny:[code](https://github.com/wrld/Ada-Tracker)
 - Surgical Tattoos in Infrared: A Dataset for Quantifying Tissue Tracking and Mapping
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10458702) :triangular_flag_on_post:[dataset](https://dx.doi.org/10.21227/w8g4-g548)
 - Video-Based Soft Tissue Deformation Tracking for Laparoscopic Augmented Reality-Based Navigation in Kidney Surgery
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10555430) 
 - Evaluating Unsupervised Optical Flow for Keypoint Tracking in Laparoscopic Videos
+  [2024] :star:[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12928/129281V/Evaluating-unsupervised-optical-flow-for-keypoint-tracking-in-laparoscopic-videos/10.1117/12.3006405.short#:~:text=Inspired%20by%20the%20%E2%80%9DWhat%20Matters%20in%20Unsupervised%20Optical,the%20context%20of%20tracking%20keypoints%20in%20laparoscopic%20videos.) 
 - Tracker Learning Surgical Images By Self-Supervised Learning: An Enhanced Unsupervised Deep Tracking Approach
+  [2023] :star:[paper](https://ieeexplore.ieee.org/document/10255175) 
 
 ## Surgical_Phase_Recognition
 - C-ECT: Online Surgical Phase Recognition with Cross-Enhancement Causal Transformer
