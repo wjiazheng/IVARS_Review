@@ -96,28 +96,48 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2022] :star:[paper](https://ieeexplore.ieee.org/document/9722971) 
 
 ## Surgical_Action_Triplet_Recognition 
-- Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search
-- [] :star:[paper]() :sunny:[code]()
-- Multi-Task Recurrent Neural Network for Surgical Gesture Recognition and Progress Prediction
-- Relational Graph Learning on Visual and Kinematics Embeddings for Accurate Gesture Recognition in Robotic Surgery
-- Surgical Gesture Recognition Based on Bidirectional Multi-Layer Independently RNN with Explainable Spatial Feature Extraction
-- Surgical Triplet Recognition via Diffusion Model
-- MT-FiST: A Multi-Task Fine-Grained Spatial-Temporal Framework for Surgical Action Triplet Recognition
-- Forest Graph Convolutional Network for Surgical Action Triplet Recognition in Endoscopic Videos
-- Gesture Recognition in Robotic Surgery With Multimodal Attention
-- Instrument-Tissue Interaction Detection Framework for Surgical Video Understanding
-- CholecTriplet2021: A benchmark challenge for surgical action triplet recognition
-- Rendezvous: Attention mechanisms for the recognition of surgical action triplets in endoscopic videos
-- Using 3D Convolutional Neural Networks to Learn Spatiotemporal Features for Automatic Surgical Gesture Recognition in Video
-- Tail-Enhanced Representation Learning for Surgical Triplet Recognition
-- Self-distillation for Surgical Action Recognition
-- Surgical Action Triplet Detection by Mixed Supervised Learning of Instrument-Tissue Interactions
-- Surgical Activity Triplet Recognition via Triplet Disentanglement
-- Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos
-- Concept Graph Neural Networks for  Surgical Video Understanding
-- MT4MTL-KD: A Multi-Teacher Knowledge Distillation Framework for Triplet Recognition
-- DATA SPLITS AND METRICS FOR METHOD BENCHMARKING ON SURGICAL ACTION TRIPLET DATASETS
-- Parameter-efﬁcient framework for surgical action triplet recognition
+- Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search  
+  [2020] :star:[paper](https://ieeexplore.ieee.org/document/9196674) 
+- Multi-Task Recurrent Neural Network for Surgical Gesture Recognition and Progress Prediction  
+  [2020] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9197301)
+- Relational Graph Learning on Visual and Kinematics Embeddings for Accurate Gesture Recognition in Robotic Surgery  
+  [2021] :star:[paper](https://ieeexplore.ieee.org/document/9561028) :sunny:[code](https://www.cse.cuhk.edu.hk/~yhlong/mrgnet.html)
+- Surgical Gesture Recognition Based on Bidirectional Multi-Layer Independently RNN with Explainable Spatial Feature Extraction  
+  [2021] :star:[paper](https://ieeexplore.ieee.org/document/9561803) 
+- Surgical Triplet Recognition via Diffusion Model  
+  [2024] :star:[paper](https://arxiv.org/abs/2406.13210) 
+- MT-FiST: A Multi-Task Fine-Grained Spatial-Temporal Framework for Surgical Action Triplet Recognition  
+  [2023] :star:[paper](https://ieeexplore.ieee.org/document/10195982) :sunny:[code](https://github.com/Lycus99/MT-FiST)
+- Forest Graph Convolutional Network for Surgical Action Triplet Recognition in Endoscopic Videos  
+  [2022] :star:[paper](https://ieeexplore.ieee.org/document/9831997) 
+- Gesture Recognition in Robotic Surgery With Multimodal Attention  
+  [2022] :star:[paper](https://ieeexplore.ieee.org/document/9701436) :triangular_flag_on_post:[dataset](https://www.ucl.ac.uk/interventional-surgical-sciences/weiss-open-data-server)
+- Instrument-Tissue Interaction Detection Framework for Surgical Video Understanding  
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10478628) :sunny:[code](https://gaiakoen.github.io/yanhu/research/Surgical_Scenarios_)
+- CholecTriplet2021: A benchmark challenge for surgical action triplet recognition  
+  [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000646) :sunny:[code](https://github.com/CAMMA-public/cholectriplet2021) :triangular_flag_on_post:[dataset](https://github.com/CAMMA-public/cholect50)
+- Rendezvous: Attention mechanisms for the recognition of surgical action triplets in endoscopic videos  
+  [2022] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841522000846#:~:text=Out%20of%20all%20existing%20frameworks%20for%20surgical) :sunny:[code](https://github.com/CAMMA-public/rendezvous)
+- Using 3D Convolutional Neural Networks to Learn Spatiotemporal Features for Automatic Surgical Gesture Recognition in Video  
+  [2019] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_52) :sunny:[code](https://gitlab.com/nct_tso_public/surgical_gesture_recognition)
+- Tail-Enhanced Representation Learning for Surgical Triplet Recognition  
+  [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_64) :sunny:[code](https://github.com/CIAM-Group/ComputerVision_Codes/tree/main/TERL)
+- Self-distillation for Surgical Action Recognition  
+  [2023] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_61) :sunny:[code](https://github.com/IMSY-DKFZ/self-distilled-swin)
+- Surgical Action Triplet Detection by Mixed Supervised Learning of Instrument-Tissue Interactions  
+  check code [2023] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_48) :sunny:[code]()
+- Surgical Activity Triplet Recognition via Triplet Disentanglement  
+  check code [2023] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_43) :sunny:[code]()
+- Chain-of-Look Prompting for Verb-centric Surgical Triplet Recognition in Endoscopic Videos  
+  [2023] :star:[paper](https://dl.acm.org/doi/10.1145/3581783.3611898) :sunny:[code](https://github.com/southnx/CoLSurgical)
+- Concept Graph Neural Networks for  Surgical Video Understanding  
+  [2024] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10195995) 
+- MT4MTL-KD: A Multi-Teacher Knowledge Distillation Framework for Triplet Recognition  
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10368037) :sunny:[code](https://github.com/CIAM-Group/ComputerVision_Codes/tree/main/)
+- DATA SPLITS AND METRICS FOR METHOD BENCHMARKING ON SURGICAL ACTION TRIPLET DATASETS  
+  [2022] :star:[paper](https://arxiv.org/abs/2204.05235) :sunny:[code](https://github.com/CAMMA-public) :triangular_flag_on_post:[dataset](http://camma.u-strasbg.fr/datasets)
+- Parameter-efﬁcient framework for surgical action triplet recognition  
+  [2024] :star:[paper](https://link.springer.com/article/10.1007/s11548-024-03147-6) :sunny:[code]( https://github.com/Lycus99/LAM)
 
 ## Stereo_Matching_and_3D_Reconstruction_in_Robotic_Surgery
 - A Real-Time Interactive Augmented Reality Depth Estimation Technique for Surgical Robotics
