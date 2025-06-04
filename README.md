@@ -254,55 +254,55 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 ## Surgical_Phase_Recognition
 - C-ECT: Online Surgical Phase Recognition with Cross-Enhancement Causal Transformer  
   [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10230841) :sunny:[code]()
-- SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition
+- SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition  
   [2023] :star:[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_SKiT_a_Fast_Key_Information_Video_Transformer_for_Online_Surgical_ICCV_2023_paper.html) :sunny:[code](https://github.com/MRUIL/SKiT)  
-- EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos
+- EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos  
   [2016] :star:[paper](https://ieeexplore.ieee.org/abstract/document/7519080) :sunny:[code]() :triangular_flag_on_post:[dataset](http://camma.u-strasbg.fr/datasets/)
-- SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network
+- SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network  
   [2017] :star:[paper](https://ieeexplore.ieee.org/abstract/document/8240734) :sunny:[code](https://github.com/YuemingJin/SV-RCNet) :triangular_flag_on_post:[dataset](http://camma.u-strasbg.fr/datasets/)
-- Temporal Memory Relation Network for Workflow Recognition From Surgical Video
+- Temporal Memory Relation Network for Workflow Recognition From Surgical Video  
   [2021] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9389566) :sunny:[code](https://github.com/YuemingJin/TMRNet)
-- Exploring Segment-Level Semantics for Online Phase Recognition From Surgical Videos
+- Exploring Segment-Level Semantics for Online Phase Recognition From Surgical Videos  
   [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9795918) :sunny:[code](https://github.com/xmedlab/SAHC)
-- Cascade Multi-Level Transformer Network for Surgical Workflow Analysis
+- Cascade Multi-Level Transformer Network for Surgical Workflow Analysis  
   [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10098668) :sunny:[code]()
-- Federated Cycling (FedCy): Semi-Supervised Federated Learning of Surgical Phases
+- Federated Cycling (FedCy): Semi-Supervised Federated Learning of Surgical Phases  
   [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9950359) :sunny:[code]()
-- LAST: LAtent Space-Constrained Transformers for Automatic Surgical Phase Recognition and Tool Presence Detection
+- LAST: LAtent Space-Constrained Transformers for Automatic Surgical Phase Recognition and Tool Presence Detection  
   [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10136221) :sunny:[code]()
-- Less Is More: Surgical Phase Recognition From Timestamp Supervision
+- Less Is More: Surgical Phase Recognition From Timestamp Supervision  
   [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10043791) :sunny:[code](https://github.com/xmed-lab/TimeStamp-Surgical)
-- Semi-supervised learning with progressive unlabeled data excavation for label-efficient surgical workflow recognition
+- Semi-supervised learning with progressive unlabeled data excavation for label-efficient surgical workflow recognition  
   [2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841521002048) :sunny:[code]()
-- LoViT: Long Video Transformer for surgical phase recognition
+- LoViT: Long Video Transformer for surgical phase recognition  
   [2025] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524002913) :sunny:[code](https://github.com/MRUIL/LoViT)
-- Hard Frame Detection and Online Mapping for Surgical Phase Recognition
+- Hard Frame Detection and Online Mapping for Surgical Phase Recognition  
   [2019] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_50) :sunny:[code](https://github.com/ChinaYi/miccai19)
-- OperA: Attention-Regularized Transformers for Surgical Phase Recognition
+- OperA: Attention-Regularized Transformers for Surgical Phase Recognition  
   [2021] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_58) :sunny:[code](https://github.com/tobiascz/OperA/)
-- Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer
+- Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer  
   [2021] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_57) :sunny:[code](https://github.com/xjgaocs/Trans-SVNet) :triangular_flag_on_post:[dataset](http://camma.u-strasbg.fr/datasets/)
-- HecVL: Hierarchical Video-Language Pretraining for Zero-Shot Surgical Phase Recognition
+- HecVL: Hierarchical Video-Language Pretraining for Zero-Shot Surgical Phase Recognition  
   [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_29) :sunny:[code](https://github.com/CAMMA-public/HecVL)
-- Label-Guided Teacher for Surgical Phase Recognition via Knowledge Distillation
+- Label-Guided Teacher for Surgical Phase Recognition via Knowledge Distillation  
   [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_33) :sunny:[code]()
-- MuST: Multi-scale Transformers for Surgical Phase Recognition
+- MuST: Multi-scale Transformers for Surgical Phase Recognition  
   [2024] :star:[paper](https://repositorio.uniandes.edu.co/entities/publication/576ed23f-ac9a-4acd-9db0-7764ee326c4c) :sunny:[code]()
-- Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition
+- Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition  
   [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_57) :sunny:[code](https://github.com/isyangshu/Surgformer)
-- Retrieval of Surgical Phase Transitions Using Reinforcement Learning
+- Retrieval of Surgical Phase Transitions Using Reinforcement Learning  
   [2022] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_47) :sunny:[code]()
-- Comparative validation of machine learning algorithms for surgical workflow and skill analysis with the HeiChole benchmark
+- Comparative validation of machine learning algorithms for surgical workflow and skill analysis with the HeiChole benchmark  
   [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000312) :sunny:[code]()
-- On the pitfalls of Batch Normalization for end-to-end video learning: A study on surgical workflow analysis
+- On the pitfalls of Batch Normalization for end-to-end video learning: A study on surgical workflow analysis  
   [2024] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524000513) :sunny:[code](https://gitlab.com/nct_tso_public/pitfalls_bn)
-- Frequency-Based Temporal Analysis Network for Accurate Phase Recognition from Surgical Videos
+- Frequency-Based Temporal Analysis Network for Accurate Phase Recognition from Surgical Videos  
   [2024] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10635806) :sunny:[code]()
-- Intelligent surgical workflow recognition for endoscopic submucosal dissection with real-time animal study
+- Intelligent surgical workflow recognition for endoscopic submucosal dissection with real-time animal study  
   [2023] :star:[paper](https://www.nature.com/articles/s41467-023-42451-8) :sunny:[code](https://github.com/med-air/AI-Endo)
-- Dissecting Self-Supervised Learning Methods for Surgical Computer Vision
+- Dissecting Self-Supervised Learning Methods for Surgical Computer Vision  
   [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523001044) :sunny:[code](https://github.com/CAMMA-public/SelfSupSurg)
-- Multi-task recurrent convolutional network with correlation loss for surgical video analysis
+- Multi-task recurrent convolutional network with correlation loss for surgical video analysis  
   [2020] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841519301124) :sunny:[code](https://github.com/YuemingJin/MTRCNet-CL)
 
 
