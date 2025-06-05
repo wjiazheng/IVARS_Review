@@ -263,7 +263,7 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 - Temporal Memory Relation Network for Workflow Recognition From Surgical Video  
   [2021] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9389566) :sunny:[code](https://github.com/YuemingJin/TMRNet)
 - Exploring Segment-Level Semantics for Online Phase Recognition From Surgical Videos  
-  [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9795918) :sunny:[code](https://github.com/xmedlab/SAHC)
+  [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9795918) :sunny:[code](https://github.com/XMed-Lab/SAHC)
 - Cascade Multi-Level Transformer Network for Surgical Workflow Analysis  
   [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10098668) :sunny:[code]()
 - Federated Cycling (FedCy): Semi-Supervised Federated Learning of Surgical Phases  
