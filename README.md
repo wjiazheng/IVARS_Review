@@ -94,9 +94,9 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2020] :star:[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6850#:~:text=In%20this%20paper%2C%20a%20novel%20network%2C%20Pyramid%20Attention,to%20aggregate%20multi-scale%20attentive%20features%20for%20surgical%20instruments.)
 - **Space Squeeze Reasoning and Low-Rank Bilinear Feature Fusion for Surgical Image Segmentation**  
   [2022] :star:[paper](https://ieeexplore.ieee.org/document/9722971)
-- **【Endovis2017】2017 robotic instrument segmentation challenge**
+- **【Endovis2017】2017 robotic instrument segmentation challenge**  
   [2019] :star:[paper](https://arxiv.org/abs/1902.06426) :triangular_flag_on_post:[dataset](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/)
-- **【Endovis2018】2018 robotic scene segmentation challenge**
+- **【Endovis2018】2018 robotic scene segmentation challenge**  
   [2020] :star:[paper](https://arxiv.org/abs/2001.11190) :triangular_flag_on_post:[dataset](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/)
 
 ## Surgical_Action_Triplet_Recognition 
@@ -138,9 +138,9 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2022] :star:[paper](https://arxiv.org/abs/2204.05235) :sunny:[code](https://github.com/CAMMA-public) :triangular_flag_on_post:[dataset](http://camma.u-strasbg.fr/datasets)
 - Parameter-efﬁcient framework for surgical action triplet recognition  
   [2024] :star:[paper](https://link.springer.com/article/10.1007/s11548-024-03147-6) :sunny:[code](https://github.com/Lycus99/LAM)
-- 【JIGSAWS】A Dataset and Benchmarks for Segmentation and Recognition of Gestures in Robotic Surgery
+- 【JIGSAWS】A Dataset and Benchmarks for Segmentation and Recognition of Gestures in Robotic Surgery  
   [2017] :star:[paper](https://ieeexplore.ieee.org/document/7805258) :triangular_flag_on_post:[dataset](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/)
-- 【CholecT40】Recognition of instrument-tissue interactions in endoscopic videos via action triplets.
+- 【CholecT40】Recognition of instrument-tissue interactions in endoscopic videos via action triplets.  
   [2020] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_35) :triangular_flag_on_post:[dataset](https://github.com/CAMMA-public/tripnet)
 - 【CholecT45】CholecTriplet2021: A benchmark challenge for surgical action triplet recognition  
   [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000646) :sunny:[code](https://github.com/CAMMA-public/cholectriplet2021) :triangular_flag_on_post:[dataset](https://github.com/CAMMA-public/cholect45)
@@ -206,7 +206,7 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2022] :star:[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841522000329)
 - 【EndoNeRF】Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery  
   [2022] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_41) :sunny:[code](https://github.com/med-air/EndoNeRF) :triangular_flag_on_post:[dataset](https://github.com/med-air/EndoNeRF)
-- 【SCARED】Stereo correspondence and reconstruction of endoscopic data challenge
+- 【SCARED】Stereo correspondence and reconstruction of endoscopic data challenge  
   [2021] :star:[paper](https://arxiv.org/abs/2101.01133) :triangular_flag_on_post:[dataset](https://endovissub2019-scared.grand-challenge.org/)
   
 
@@ -249,9 +249,9 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2022] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8) :sunny:[code](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8)
 - 【P2ILF】An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion from the MICCAI2022 challenge  
   [2025] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524002962) :triangular_flag_on_post:[dataset](https://p2ilf.grand-challenge.org/)
-- 【】A methodology and clinical dataset with ground-truth to evaluate registration accuracy quantitatively in computer-assisted Laparoscopic Liver Resection
+- 【】A methodology and clinical dataset with ground-truth to evaluate registration accuracy quantitatively in computer-assisted Laparoscopic Liver Resection  
   [2022] :star:[paper](https://www.tandfonline.com/doi/abs/10.1080/21681163.2021.1997642) :triangular_flag_on_post:[dataset](http://igt.ip.uca.fr/ab/code_and_datasets/datasets/llr_reg_evaluation_by_lus)
-- 【DEPOLL】An in vivo porcine dataset and evaluation methodology to measure soft-body laparoscopic liver registration accuracy with an extended algorithm that handles collisions
+- 【DEPOLL】An in vivo porcine dataset and evaluation methodology to measure soft-body laparoscopic liver registration accuracy with an extended algorithm that handles collisions  
   [2019] :star:[paper](https://link.springer.com/article/10.1007/s11548-019-02001-4) :triangular_flag_on_post:[dataset](https://www.ircad.fr/research/data-sets/respiratory-cycle-3d-ircadb-02-copy/)
 
 ## Unsupervised_Soft-tissue_Tracking
@@ -265,9 +265,9 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2024] :star:[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12928/129281V/Evaluating-unsupervised-optical-flow-for-keypoint-tracking-in-laparoscopic-videos/10.1117/12.3006405.short#:~:text=Inspired%20by%20the%20%E2%80%9DWhat%20Matters%20in%20Unsupervised%20Optical,the%20context%20of%20tracking%20keypoints%20in%20laparoscopic%20videos.) 
 - Tracker Learning Surgical Images By Self-Supervised Learning: An Enhanced Unsupervised Deep Tracking Approach  
   [2023] :star:[paper](https://ieeexplore.ieee.org/document/10255175)
-- 【SurT】SurgT challenge: Benchmark of Soft-Tissue Trackers for Robotic Surgery
+- 【SurT】SurgT challenge: Benchmark of Soft-Tissue Trackers for Robotic Surgery  
   [2024] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002451) :triangular_flag_on_post:[dataset](https://surgt.grand-challenge.org/)
-- 【OBRDataset】Online tracking and retargeting with applications to optical biopsy in gastrointestinal endoscopic examinations
+- 【OBRDataset】Online tracking and retargeting with applications to optical biopsy in gastrointestinal endoscopic examinations  
   [2016] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841515001449) :triangular_flag_on_post:[dataset](https://hamlyn.doc.ic.ac.uk/vision/)
 
 ## Surgical_Phase_Recognition
@@ -323,8 +323,8 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523001044) :sunny:[code](https://github.com/CAMMA-public/SelfSupSurg)
 - Multi-task recurrent convolutional network with correlation loss for surgical video analysis  
   [2020] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841519301124) :sunny:[code](https://github.com/YuemingJin/MTRCNet-CL)
-- 【M2cai16】MICCAI modeling and monitoring of computer assisted interventions challenge
-- 【MISAW】MIcro-surgical anastomose workflow recognition challenge report
+- 【M2cai16】MICCAI modeling and monitoring of computer assisted interventions challenge  
+- 【MISAW】MIcro-surgical anastomose workflow recognition challenge report  
   [2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S0169260721005265) :triangular_flag_on_post:[dataset](http://www.synapse.org/MISAW)
 
 
