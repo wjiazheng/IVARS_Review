@@ -323,7 +323,8 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523001044) :sunny:[code](https://github.com/CAMMA-public/SelfSupSurg)
 - Multi-task recurrent convolutional network with correlation loss for surgical video analysis  
   [2020] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841519301124) :sunny:[code](https://github.com/YuemingJin/MTRCNet-CL)
-- 【M2cai16】MICCAI modeling and monitoring of computer assisted interventions challenge  
+- 【M2cai16】Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks
+  [2018] :star:[paper](https://arxiv.org/abs/1802.08774) :triangular_flag_on_post:[dataset](https://ai.stanford.edu/~syyeung/tooldetection.html)
 - 【MISAW】MIcro-surgical anastomose workflow recognition challenge report  
   [2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S0169260721005265) :triangular_flag_on_post:[dataset](http://www.synapse.org/MISAW)
 
