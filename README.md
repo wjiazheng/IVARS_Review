@@ -249,8 +249,8 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2022] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8) :sunny:[code](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8)
 - 【P2ILF】An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion from the MICCAI2022 challenge  
   [2025] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524002962) :triangular_flag_on_post:[dataset](https://p2ilf.grand-challenge.org/)
-- 【】A methodology and clinical dataset with ground-truth to evaluate registration accuracy quantitatively in computer-assisted Laparoscopic Liver Resection  
-  [2022] :star:[paper](https://www.tandfonline.com/doi/abs/10.1080/21681163.2021.1997642) :triangular_flag_on_post:[dataset](http://igt.ip.uca.fr/ab/code_and_datasets/datasets/llr_reg_evaluation_by_lus)
+- A methodology and clinical dataset with ground-truth to evaluate registration accuracy quantitatively in computer-assisted Laparoscopic Liver Resection  
+  [2022] :star:[paper](https://www.tandfonline.com/doi/abs/10.1080/21681163.2021.1997642) :triangular_flag_on_post:[dataset](https://encov.ip.uca.fr/ab/code_and_datasets/datasets/llr_reg_evaluation_by_lus/)
 - 【DEPOLL】An in vivo porcine dataset and evaluation methodology to measure soft-body laparoscopic liver registration accuracy with an extended algorithm that handles collisions  
   [2019] :star:[paper](https://link.springer.com/article/10.1007/s11548-019-02001-4) :triangular_flag_on_post:[dataset](https://www.ircad.fr/research/data-sets/respiratory-cycle-3d-ircadb-02-copy/)
 
@@ -311,7 +311,7 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_57) :sunny:[code](https://github.com/isyangshu/Surgformer)
 - Retrieval of Surgical Phase Transitions Using Reinforcement Learning  
   [2022] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_47) 
-- ?【HeiChole】Comparative validation of machine learning algorithms for surgical workflow and skill analysis with the HeiChole benchmark  
+- 【HeiChole】Comparative validation of machine learning algorithms for surgical workflow and skill analysis with the HeiChole benchmark  
   [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000312) :triangular_flag_on_post:[dataset]()
 - On the pitfalls of Batch Normalization for end-to-end video learning: A study on surgical workflow analysis  
   [2024] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524000513) :sunny:[code](https://gitlab.com/nct_tso_public/pitfalls_bn)
