@@ -24,7 +24,7 @@ In this review, intraoperative video analysis for robotic surgery is categorized
 ![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig3.png)
 Statistical data of publications by journals and conferences in intraoperative video analysis over the last decade (2016-2025).
 
-The reviewed papers are listed as follow:
+# The reviewed papers are listed as follow:
 
 ## Surgical_Image_Semantic_Segmentation  
 - **Automatic instrument segmentation in robot-assisted surgery using deep learning**  
