@@ -32,6 +32,8 @@ Statistical data of publications by journals and conferences in intraoperative v
 ![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig4.png)
 Statistical data of publications by years in intraoperative video analysis over the last decade (2016-2025).
 
+The reviewed papers are listed as follow:
+
 ## Surgical_Image_Semantic_Segmentation  
 - **Automatic instrument segmentation in robot-assisted surgery using deep learning**  
   [2018] :star:[paper](https://ieeexplore.ieee.org/abstract/document/8614125) :sunny:[code](https://github.com/ternaus/robot-surgery-segmentation)
