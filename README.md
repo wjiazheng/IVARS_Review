@@ -5,8 +5,8 @@ Intraoperative video analysis has emerged as a pivotal technology in robot-assis
 We categorized intraoperative video analysis in robotic surgery into six core sub-tasks:  
 *[Surgical Image Semantic Segmentation](#Surgical_Image_Semantic_Segmentation)*   
 *[Surgical Action Triplet Recognition](#Surgical_Action_Triplet_Recognition)*  
-*[Intraoperative Depth Estimation and 3D Reconstruction](#Intraoperative Depth Estimation and 3D Reconstruction)*   
-*[Preoperative-to-intraoperative Image Registration](#Preoperative-to-intraoperative_Image_Registration)*  
+*[Intraoperative Depth Estimation and 3D Reconstruction](#Intraoperative_Depth_Estimation_and_3D_Reconstruction)*   
+*[Preoperative-to-intraoperative Image Registration](#Preoperative-to-intraoperative_Registration)*  
 *[Unsupervised Soft-tissue Tracking](#Unsupervised_Soft-tissue_Tracking)*  
 *[Surgical Phase Recognition](#Surgical_Phase_Recognition)*
 
@@ -210,7 +210,7 @@ We categorized intraoperative video analysis in robotic surgery into six core su
   [2021] :star:[paper](https://arxiv.org/abs/2101.01133) :triangular_flag_on_post:[dataset](https://endovissub2019-scared.grand-challenge.org/)
   
 
-## Preoperative-to-intraoperative_Image_Registration
+## Preoperative-to-intraoperative_Registration
 - Using Contours as Boundary Conditions for Elastic Registration during Minimally Invasive Hepatic Surgery  
   [2016] :star:[paper](https://ieeexplore.ieee.org/document/7759099) 
 - Augmented Reality Navigation in Robot-Assisted Surgery with a Teleoperated Robotic Endoscope  
