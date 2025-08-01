@@ -4,17 +4,17 @@ Intraoperative video analysis has emerged as a pivotal technology in robot-assis
 
 In this review, intraoperative video analysis for robotic surgery is categorized into six core sub-tasks, which can be grouped into three levels of semantic understanding in the surgical scene:
 
-* *Pixel-level* Intraoperative Video Analysis focuses on pixel-wise interpretation of intraoperative scene through sub-tasks such as:
+* **Pixel-level** Intraoperative Video Analysis focuses on pixel-wise interpretation of intraoperative scene through sub-tasks such as:
 
   * *[Surgical Image Semantic Segmentation](#Surgical_Image_Semantic_Segmentation)*   
   * *[Unsupervised Soft-tissue Tracking](#Unsupervised_Soft-tissue_Tracking)*  
 
-* *Global-level* Intraoperative Video Analysis targets comprehensive understanding of the surgical process via sub-tasks like:
+* **Global-level** Intraoperative Video Analysis targets comprehensive understanding of the surgical process via sub-tasks like:
 
   * *[Surgical Action Triplet Recognition](#Surgical_Action_Triplet_Recognition)*  
   * *[Surgical Phase Recognition](#Surgical_Phase_Recognition)*
 
-* *Spatial-level* Intraoperative Video Analysis provides a 3D spatial perspective of the surgical scene by encompassing sub-tasks including:
+* **Spatial-level** Intraoperative Video Analysis provides a 3D spatial perspective of the surgical scene by encompassing sub-tasks including:
 
   * *[Intraoperative Depth Estimation and 3D Reconstruction](#Intraoperative_Depth_Estimation_and_3D_Reconstruction)*   
   * *[Preoperative-to-intraoperative Image Registration](#Preoperative-to-intraoperative_Registration)*  
