@@ -23,7 +23,7 @@ Spatial-level Intraoperative Video Analysis:
 
 Through systematic literature retrieval and filtering on Google Scholar, Web of Science, and Scopus for the six core sub-tasks of intraoperative video analysis, we found 463 relevant publications from 2016 to 2025.
 
-![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig2.png){:height="50%" width="50%"}
+![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig2.png =200x200)
 Statistical data on publications for each sub-task in intraoperative video analysis over the last decade (2016-2025).
 
 ![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig3.png)
