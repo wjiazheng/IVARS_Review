@@ -19,7 +19,7 @@ Spatial-level Intraoperative Video Analysis:
 *[Intraoperative Depth Estimation and 3D Reconstruction](#Intraoperative_Depth_Estimation_and_3D_Reconstruction)*   
 *[Preoperative-to-intraoperative Image Registration](#Preoperative-to-intraoperative_Registration)*  
 
-![image](https://github.com/wjiazheng/IVARS_Review/blob/main/Fig1.tif)
+![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig1.png)
 
 ## Surgical_Image_Semantic_Segmentation  
 - **Automatic instrument segmentation in robot-assisted surgery using deep learning**  
