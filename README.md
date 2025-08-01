@@ -17,7 +17,7 @@ In this review, intraoperative video analysis for robotic surgery is categorized
 * **Spatial-level** Intraoperative Video Analysis provides a 3D spatial perspective of the surgical scene by encompassing sub-tasks including:
 
   * *[Intraoperative Depth Estimation and 3D Reconstruction](#Intraoperative_Depth_Estimation_and_3D_Reconstruction)*   
-  * *[Preoperative-to-intraoperative Image Registration](#Preoperative-to-intraoperative_Registration)*  
+  * *[Preoperative-to-intraoperative Registration](#Preoperative-to-intraoperative_Registration)*  
 
 ![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig1.png)
 
