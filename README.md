@@ -21,6 +21,17 @@ Spatial-level Intraoperative Video Analysis:
 
 ![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig1.png)
 
+Through systematic literature retrieval and filtering on Google Scholar, Web of Science, and Scopus for the six core sub-tasks of intraoperative video analysis, we found 463 relevant publications from 2016 to 2025.
+
+![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig2.png)
+Statistical data on publications for each sub-task in intraoperative video analysis over the last decade (2016-2025).
+
+![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig3.png)
+Statistical data of publications by journals and conferences in intraoperative video analysis over the last decade (2016-2025).
+
+![image](https://github.com/wjiazheng/IVARS_Review/blob/main/fig4.png)
+Statistical data of publications by years in intraoperative video analysis over the last decade (2016-2025).
+
 ## Surgical_Image_Semantic_Segmentation  
 - **Automatic instrument segmentation in robot-assisted surgery using deep learning**  
   [2018] :star:[paper](https://ieeexplore.ieee.org/abstract/document/8614125) :sunny:[code](https://github.com/ternaus/robot-surgery-segmentation)
