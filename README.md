@@ -114,6 +114,22 @@ Statistical data of publications by journals and conferences in intraoperative v
 - **【Endovis2018】2018 robotic scene segmentation challenge**  
   [2020] :star:[paper](https://arxiv.org/abs/2001.11190) :triangular_flag_on_post:[dataset](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/)
 
+## Unsupervised_Soft-tissue_Tracking
+- Ada-Tracker: Soft Tissue Tracking via Inter-Frame and Adaptive-Template Matching  
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10611030) :sunny:[code](https://github.com/wrld/Ada-Tracker)
+- Surgical Tattoos in Infrared: A Dataset for Quantifying Tissue Tracking and Mapping  
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10458702) :triangular_flag_on_post:[dataset](https://dx.doi.org/10.21227/w8g4-g548)
+- Video-Based Soft Tissue Deformation Tracking for Laparoscopic Augmented Reality-Based Navigation in Kidney Surgery  
+  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10555430) 
+- Evaluating Unsupervised Optical Flow for Keypoint Tracking in Laparoscopic Videos  
+  [2024] :star:[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12928/129281V/Evaluating-unsupervised-optical-flow-for-keypoint-tracking-in-laparoscopic-videos/10.1117/12.3006405.short#:~:text=Inspired%20by%20the%20%E2%80%9DWhat%20Matters%20in%20Unsupervised%20Optical,the%20context%20of%20tracking%20keypoints%20in%20laparoscopic%20videos.) 
+- Tracker Learning Surgical Images By Self-Supervised Learning: An Enhanced Unsupervised Deep Tracking Approach  
+  [2023] :star:[paper](https://ieeexplore.ieee.org/document/10255175)
+- 【SurT】SurgT challenge: Benchmark of Soft-Tissue Trackers for Robotic Surgery  
+  [2024] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002451) :triangular_flag_on_post:[dataset](https://surgt.grand-challenge.org/)
+- 【OBRDataset】Online tracking and retargeting with applications to optical biopsy in gastrointestinal endoscopic examinations  
+  [2016] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841515001449) :triangular_flag_on_post:[dataset](https://hamlyn.doc.ic.ac.uk/vision/)
+
 ## Surgical_Action_Triplet_Recognition 
 - Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search  
   [2020] :star:[paper](https://ieeexplore.ieee.org/document/9196674) 
@@ -161,6 +177,64 @@ Statistical data of publications by journals and conferences in intraoperative v
   [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000646) :sunny:[code](https://github.com/CAMMA-public/cholectriplet2021) :triangular_flag_on_post:[dataset](https://github.com/CAMMA-public/cholect45)
 - 【CholecT50】Rendezvous: Attention mechanisms for the recognition of surgical action triplets in endoscopic videos  
   [2022] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841522000846#:~:text=Out%20of%20all%20existing%20frameworks%20for%20surgical) :sunny:[code](https://github.com/CAMMA-public/rendezvous) :triangular_flag_on_post:[dataset](https://github.com/CAMMA-public/cholect50)
+
+## Surgical_Phase_Recognition
+- C-ECT: Online Surgical Phase Recognition with Cross-Enhancement Causal Transformer  
+  [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10230841) 
+- SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition  
+  [2023] :star:[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_SKiT_a_Fast_Key_Information_Video_Transformer_for_Online_Surgical_ICCV_2023_paper.html) :sunny:[code](https://github.com/MRUIL/SKiT)  
+- 【Cholec80】EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos  
+  [2016] :star:[paper](https://ieeexplore.ieee.org/abstract/document/7519080) :triangular_flag_on_post:[dataset](https://github.com/CAMMA-public/TF-Cholec80)
+- SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network  
+  [2017] :star:[paper](https://ieeexplore.ieee.org/abstract/document/8240734) :sunny:[code](https://github.com/YuemingJin/SV-RCNet) :triangular_flag_on_post:[dataset](http://camma.u-strasbg.fr/datasets/)
+- Temporal Memory Relation Network for Workflow Recognition From Surgical Video  
+  [2021] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9389566) :sunny:[code](https://github.com/YuemingJin/TMRNet)
+- Exploring Segment-Level Semantics for Online Phase Recognition From Surgical Videos  
+  [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9795918) :sunny:[code](https://github.com/XMed-Lab/SAHC)
+- Cascade Multi-Level Transformer Network for Surgical Workflow Analysis  
+  [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10098668) 
+- Federated Cycling (FedCy): Semi-Supervised Federated Learning of Surgical Phases  
+  [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9950359) 
+- LAST: LAtent Space-Constrained Transformers for Automatic Surgical Phase Recognition and Tool Presence Detection  
+  [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10136221) 
+- Less Is More: Surgical Phase Recognition From Timestamp Supervision  
+  [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10043791) :sunny:[code](https://github.com/xmed-lab/TimeStamp-Surgical)
+- Semi-supervised learning with progressive unlabeled data excavation for label-efficient surgical workflow recognition  
+  [2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841521002048)
+- LoViT: Long Video Transformer for surgical phase recognition  
+  [2025] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524002913) :sunny:[code](https://github.com/MRUIL/LoViT)
+- Hard Frame Detection and Online Mapping for Surgical Phase Recognition  
+  [2019] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_50) :sunny:[code](https://github.com/ChinaYi/miccai19)
+- OperA: Attention-Regularized Transformers for Surgical Phase Recognition  
+  [2021] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_58) 
+- Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer  
+  [2021] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_57) :sunny:[code](https://github.com/xjgaocs/Trans-SVNet) :triangular_flag_on_post:[dataset](http://camma.u-strasbg.fr/datasets/)
+- HecVL: Hierarchical Video-Language Pretraining for Zero-Shot Surgical Phase Recognition  
+  [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_29) 
+- Label-Guided Teacher for Surgical Phase Recognition via Knowledge Distillation  
+  [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_33) 
+- MuST: Multi-scale Transformers for Surgical Phase Recognition  
+  [2024] :star:[paper](https://repositorio.uniandes.edu.co/entities/publication/576ed23f-ac9a-4acd-9db0-7764ee326c4c) 
+- Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition  
+  [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_57) :sunny:[code](https://github.com/isyangshu/Surgformer)
+- Retrieval of Surgical Phase Transitions Using Reinforcement Learning  
+  [2022] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_47) 
+- 【HeiChole】Comparative validation of machine learning algorithms for surgical workflow and skill analysis with the HeiChole benchmark  
+  [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000312) :triangular_flag_on_post:[dataset](https://www.synapse.org/Synapse:syn18824884/wiki/617550)
+- On the pitfalls of Batch Normalization for end-to-end video learning: A study on surgical workflow analysis  
+  [2024] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524000513) :sunny:[code](https://gitlab.com/nct_tso_public/pitfalls_bn)
+- Frequency-Based Temporal Analysis Network for Accurate Phase Recognition from Surgical Videos  
+  [2024] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10635806) 
+- Intelligent surgical workflow recognition for endoscopic submucosal dissection with real-time animal study  
+  [2023] :star:[paper](https://www.nature.com/articles/s41467-023-42451-8) :sunny:[code](https://github.com/med-air/AI-Endo)
+- Dissecting Self-Supervised Learning Methods for Surgical Computer Vision  
+  [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523001044) :sunny:[code](https://github.com/CAMMA-public/SelfSupSurg)
+- Multi-task recurrent convolutional network with correlation loss for surgical video analysis  
+  [2020] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841519301124) :sunny:[code](https://github.com/YuemingJin/MTRCNet-CL)
+- 【M2cai16】Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks  
+  [2018] :star:[paper](https://arxiv.org/abs/1802.08774) :triangular_flag_on_post:[dataset](https://ai.stanford.edu/~syyeung/tooldetection.html)
+- 【MISAW】MIcro-surgical anastomose workflow recognition challenge report  
+  [2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S0169260721005265) :triangular_flag_on_post:[dataset](http://www.synapse.org/MISAW)
   
 ## Intraoperative_Depth_Estimation_and_3D_Reconstruction
 - A Real-Time Interactive Augmented Reality Depth Estimation Technique for Surgical Robotics  
@@ -224,7 +298,6 @@ Statistical data of publications by journals and conferences in intraoperative v
 - 【SCARED】Stereo correspondence and reconstruction of endoscopic data challenge  
   [2021] :star:[paper](https://arxiv.org/abs/2101.01133) :triangular_flag_on_post:[dataset](https://endovissub2019-scared.grand-challenge.org/)
   
-
 ## Preoperative-to-intraoperative_Registration
 - Using Contours as Boundary Conditions for Elastic Registration during Minimally Invasive Hepatic Surgery  
   [2016] :star:[paper](https://ieeexplore.ieee.org/document/7759099) 
@@ -268,83 +341,6 @@ Statistical data of publications by journals and conferences in intraoperative v
   [2022] :star:[paper](https://www.tandfonline.com/doi/abs/10.1080/21681163.2021.1997642) :triangular_flag_on_post:[dataset](https://encov.ip.uca.fr/ab/code_and_datasets/datasets/llr_reg_evaluation_by_lus/)
 - 【DEPOLL】An in vivo porcine dataset and evaluation methodology to measure soft-body laparoscopic liver registration accuracy with an extended algorithm that handles collisions  
   [2019] :star:[paper](https://link.springer.com/article/10.1007/s11548-019-02001-4) :triangular_flag_on_post:[dataset](https://www.ircad.fr/research/data-sets/respiratory-cycle-3d-ircadb-02-copy/)
-
-## Unsupervised_Soft-tissue_Tracking
-- Ada-Tracker: Soft Tissue Tracking via Inter-Frame and Adaptive-Template Matching  
-  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10611030) :sunny:[code](https://github.com/wrld/Ada-Tracker)
-- Surgical Tattoos in Infrared: A Dataset for Quantifying Tissue Tracking and Mapping  
-  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10458702) :triangular_flag_on_post:[dataset](https://dx.doi.org/10.21227/w8g4-g548)
-- Video-Based Soft Tissue Deformation Tracking for Laparoscopic Augmented Reality-Based Navigation in Kidney Surgery  
-  [2024] :star:[paper](https://ieeexplore.ieee.org/document/10555430) 
-- Evaluating Unsupervised Optical Flow for Keypoint Tracking in Laparoscopic Videos  
-  [2024] :star:[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12928/129281V/Evaluating-unsupervised-optical-flow-for-keypoint-tracking-in-laparoscopic-videos/10.1117/12.3006405.short#:~:text=Inspired%20by%20the%20%E2%80%9DWhat%20Matters%20in%20Unsupervised%20Optical,the%20context%20of%20tracking%20keypoints%20in%20laparoscopic%20videos.) 
-- Tracker Learning Surgical Images By Self-Supervised Learning: An Enhanced Unsupervised Deep Tracking Approach  
-  [2023] :star:[paper](https://ieeexplore.ieee.org/document/10255175)
-- 【SurT】SurgT challenge: Benchmark of Soft-Tissue Trackers for Robotic Surgery  
-  [2024] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002451) :triangular_flag_on_post:[dataset](https://surgt.grand-challenge.org/)
-- 【OBRDataset】Online tracking and retargeting with applications to optical biopsy in gastrointestinal endoscopic examinations  
-  [2016] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841515001449) :triangular_flag_on_post:[dataset](https://hamlyn.doc.ic.ac.uk/vision/)
-
-## Surgical_Phase_Recognition
-- C-ECT: Online Surgical Phase Recognition with Cross-Enhancement Causal Transformer  
-  [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10230841) 
-- SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition  
-  [2023] :star:[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_SKiT_a_Fast_Key_Information_Video_Transformer_for_Online_Surgical_ICCV_2023_paper.html) :sunny:[code](https://github.com/MRUIL/SKiT)  
-- 【Cholec80】EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos  
-  [2016] :star:[paper](https://ieeexplore.ieee.org/abstract/document/7519080) :triangular_flag_on_post:[dataset](https://github.com/CAMMA-public/TF-Cholec80)
-- SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network  
-  [2017] :star:[paper](https://ieeexplore.ieee.org/abstract/document/8240734) :sunny:[code](https://github.com/YuemingJin/SV-RCNet) :triangular_flag_on_post:[dataset](http://camma.u-strasbg.fr/datasets/)
-- Temporal Memory Relation Network for Workflow Recognition From Surgical Video  
-  [2021] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9389566) :sunny:[code](https://github.com/YuemingJin/TMRNet)
-- Exploring Segment-Level Semantics for Online Phase Recognition From Surgical Videos  
-  [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9795918) :sunny:[code](https://github.com/XMed-Lab/SAHC)
-- Cascade Multi-Level Transformer Network for Surgical Workflow Analysis  
-  [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10098668) 
-- Federated Cycling (FedCy): Semi-Supervised Federated Learning of Surgical Phases  
-  [2022] :star:[paper](https://ieeexplore.ieee.org/abstract/document/9950359) 
-- LAST: LAtent Space-Constrained Transformers for Automatic Surgical Phase Recognition and Tool Presence Detection  
-  [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10136221) 
-- Less Is More: Surgical Phase Recognition From Timestamp Supervision  
-  [2023] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10043791) :sunny:[code](https://github.com/xmed-lab/TimeStamp-Surgical)
-- Semi-supervised learning with progressive unlabeled data excavation for label-efficient surgical workflow recognition  
-  [2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841521002048)
-- LoViT: Long Video Transformer for surgical phase recognition  
-  [2025] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524002913) :sunny:[code](https://github.com/MRUIL/LoViT)
-- Hard Frame Detection and Online Mapping for Surgical Phase Recognition  
-  [2019] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_50) :sunny:[code](https://github.com/ChinaYi/miccai19)
-- OperA: Attention-Regularized Transformers for Surgical Phase Recognition  
-  [2021] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_58) 
-- Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer  
-  [2021] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_57) :sunny:[code](https://github.com/xjgaocs/Trans-SVNet) :triangular_flag_on_post:[dataset](http://camma.u-strasbg.fr/datasets/)
-- HecVL: Hierarchical Video-Language Pretraining for Zero-Shot Surgical Phase Recognition  
-  [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_29) 
-- Label-Guided Teacher for Surgical Phase Recognition via Knowledge Distillation  
-  [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_33) 
-- MuST: Multi-scale Transformers for Surgical Phase Recognition  
-  [2024] :star:[paper](https://repositorio.uniandes.edu.co/entities/publication/576ed23f-ac9a-4acd-9db0-7764ee326c4c) 
-- Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition  
-  [2024] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_57) :sunny:[code](https://github.com/isyangshu/Surgformer)
-- Retrieval of Surgical Phase Transitions Using Reinforcement Learning  
-  [2022] :star:[paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_47) 
-- 【HeiChole】Comparative validation of machine learning algorithms for surgical workflow and skill analysis with the HeiChole benchmark  
-  [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000312) :triangular_flag_on_post:[dataset](https://www.synapse.org/Synapse:syn18824884/wiki/617550)
-- On the pitfalls of Batch Normalization for end-to-end video learning: A study on surgical workflow analysis  
-  [2024] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841524000513) :sunny:[code](https://gitlab.com/nct_tso_public/pitfalls_bn)
-- Frequency-Based Temporal Analysis Network for Accurate Phase Recognition from Surgical Videos  
-  [2024] :star:[paper](https://ieeexplore.ieee.org/abstract/document/10635806) 
-- Intelligent surgical workflow recognition for endoscopic submucosal dissection with real-time animal study  
-  [2023] :star:[paper](https://www.nature.com/articles/s41467-023-42451-8) :sunny:[code](https://github.com/med-air/AI-Endo)
-- Dissecting Self-Supervised Learning Methods for Surgical Computer Vision  
-  [2023] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841523001044) :sunny:[code](https://github.com/CAMMA-public/SelfSupSurg)
-- Multi-task recurrent convolutional network with correlation loss for surgical video analysis  
-  [2020] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841519301124) :sunny:[code](https://github.com/YuemingJin/MTRCNet-CL)
-- 【M2cai16】Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks  
-  [2018] :star:[paper](https://arxiv.org/abs/1802.08774) :triangular_flag_on_post:[dataset](https://ai.stanford.edu/~syyeung/tooldetection.html)
-- 【MISAW】MIcro-surgical anastomose workflow recognition challenge report  
-  [2021] :star:[paper](https://www.sciencedirect.com/science/article/pii/S0169260721005265) :triangular_flag_on_post:[dataset](http://www.synapse.org/MISAW)
-
-
-
 
 
 
