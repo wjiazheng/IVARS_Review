@@ -5,7 +5,7 @@ Intraoperative video analysis has emerged as a pivotal technology in robot-assis
 We categorized intraoperative video analysis in robotic surgery into six core sub-tasks:  
 *[Surgical Image Semantic Segmentation](#Surgical_Image_Semantic_Segmentation)*   
 *[Surgical Action Triplet Recognition](#Surgical_Action_Triplet_Recognition)*  
-*[Stereo Matching and 3D Reconstruction in Robotic Surgery](#Stereo_Matching_and_3D_Reconstruction_in_Robotic_Surgery)*   
+*[intraoperative depth estimation and 3D reconstruction](#intraoperative depth estimation and 3D reconstruction)*   
 *[Preoperative-to-intraoperative Image Registration](#Preoperative-to-intraoperative_Image_Registration)*  
 *[Unsupervised Soft-tissue Tracking](#Unsupervised_Soft-tissue_Tracking)*  
 *[Surgical Phase Recognition](#Surgical_Phase_Recognition)*
@@ -147,7 +147,7 @@ We categorized intraoperative video analysis in robotic surgery into six core su
 - 【CholecT50】Rendezvous: Attention mechanisms for the recognition of surgical action triplets in endoscopic videos  
   [2022] :star:[paper](https://www.sciencedirect.com/science/article/pii/S1361841522000846#:~:text=Out%20of%20all%20existing%20frameworks%20for%20surgical) :sunny:[code](https://github.com/CAMMA-public/rendezvous) :triangular_flag_on_post:[dataset](https://github.com/CAMMA-public/cholect50)
   
-## Stereo_Matching_and_3D_Reconstruction_in_Robotic_Surgery
+## Intraoperative_Depth_Estimation_and_3D_Reconstruction
 - A Real-Time Interactive Augmented Reality Depth Estimation Technique for Surgical Robotics  
   [2019] :star:[paper](https://ieeexplore.ieee.org/document/8793610) 
 - REAL-TIME COARSE-TO-FINE DEPTH ESTIMATION ON STEREO ENDOSCOPIC IMAGES WITH SELF-SUPERVISED LEARNING  
